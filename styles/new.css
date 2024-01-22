@@ -1,3 +1,22 @@
 #Explore{
     filter: brightness(100%);
 }
+
+#first-img{
+    filter: brightness(50%);
+}
+#second-img{
+    filter: brightness(50%);
+}
+#first{
+    filter: brightness(100%);
+}
+#second{
+    filter: brightness(100%);
+}
+#full-img{
+    filter: brightness(50%);
+}
+#full{
+    filter: brightness(100%);
+}
