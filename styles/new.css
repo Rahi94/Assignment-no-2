@@ -20,3 +20,6 @@
 #full{
     filter: brightness(100%);
 }
+.one a{
+    margin-top: 10px;
+}
